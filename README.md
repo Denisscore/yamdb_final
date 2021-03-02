@@ -2,6 +2,8 @@
 
 api_yamdb
 
+![example workflow name](https://github.com/Denisscore/yamdb_final/workflows/yamdb_workflow/badge.svg)
+
 ## Как запустить контейнер
 
 Откройте командную строку, для этого нажмите клавиши Win+r и введите команду
