@@ -74,9 +74,9 @@ python manage.py loaddata dump.json
 
 ## Authors
 
-* **Денис Шархов** - *Initial work* - [RomulinD](https://github.com/RomulinD)
+* **Денис Шархов** - *Initial work* - [Denisscore](https://github.com/Denisscore)
 
-![example workflow name](https://github.com/RomulinD/yamdb_final/workflows/yamdb_workflow/badge.svg)
+![example workflow name](https://github.com/Denisscore/yamdb_final/workflows/yamdb_workflow/badge.svg)
 
 
 
